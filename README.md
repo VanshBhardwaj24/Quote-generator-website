@@ -17,7 +17,7 @@ This is a simple web application that generates random quotes and displays them 
 
 ## Demo
 
-You can see a live demo of the Quote Generator website [here](#).
+You can see a live demo of the Quote Generator website [here](https://vanshbhardwaj24.github.io/Quote-generator-website/).
 
 ## How to Use
 
